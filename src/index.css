@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* h1{
+
+    font-family: cursive;
+    font-size: medium;
+    font-weight: bold;
+    } */
+ /* p {
+
+    background:linear-gradient(to right, red, yellow, white);
+} */
+
+body {
+
+    background:linear-gradient(to right, rgb(239, 151, 151), yellow, white); 
+}
+
+.main {
+
+    font-family: 'Rubik Iso';
+}
+
+.active {
+    color: red;
+    background-color: white;
+}
